@@ -4,8 +4,8 @@ Defines a one to many dependency between objects so that when one object changes
 
 ## Design Solution
 
-![SimuDuck Strategy Pattern 1](images/observer-solution.jpg)
+![Observer Pattern Solution](images/observer-solution.jpg)
 
 ### Example 1: Weather-O-Rama
 
-![SimuDuck Strategy Pattern 2](images/observer-example1.jpg)
+![Observer Pattern Example](images/observer-example1.jpg)
