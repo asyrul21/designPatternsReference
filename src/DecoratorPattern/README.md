@@ -4,8 +4,8 @@ Attaches additional responsibilities to an object dynamically. Decorators provid
 
 ## Design Solution
 
-![Observer Pattern Solution](images/observer-solution.jpg)
+![Decorator Pattern Solution](images/decorator-solution.jpg)
 
 ### Example 1: Starbuzz Coffee
 
-![Observer Pattern Example](images/observer-example1.jpg)
+![Decorator Pattern Example](images/decorator-example1.jpg)
