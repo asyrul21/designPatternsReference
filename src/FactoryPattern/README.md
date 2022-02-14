@@ -44,3 +44,7 @@ The Abstract Factory pattern provides an interface for creating FAMILIES of rela
 ### Example: Pizza Store for Multiple Regions with Region-specific ingredients
 
 ![Abstract Factory Pattern Solution](images/factory-abstract-example1.jpg)
+
+### Example: Pizza Store for Multiple Regions with Region-specific ingredients (Revised)
+
+![Abstract Factory Pattern Solution](images/factory-abstract-example1-revised.jpg)
