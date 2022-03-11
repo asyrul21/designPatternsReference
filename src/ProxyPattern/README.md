@@ -14,11 +14,11 @@ Related Example: State Pattern
 
 ## Design Solution
 
-![Proxy Pattern Solution](images/Proxy-solution.jpg)
+![Proxy Pattern Solution](images/proxy-solution.jpg)
 
 ### Example 1: Remote Gumball Machine Monitor (Remote Proxy)
 
-![Proxy Pattern Example 1](images/Proxy-example1.jpg)
+![Proxy Pattern Example 1](images/proxy-example1.jpg)
 
 How to run the example:
 
@@ -67,11 +67,23 @@ https://stackoverflow.com/questions/464687/running-rmi-server-classnotfound
 
 ### Example 2: CD Image (Virtual Proxy)
 
-![Proxy Pattern Example 2](images/Proxy-example2.jpg)
+![Proxy Pattern Example 2](images/proxy-example2.jpg)
 
-### Example 3: Hot or Not (Protection Proxy)
+### Example 3: Hot or Not (Protection Proxy with Invocation Handler aka Dynamic Proxy)
 
-Since the implementation provided by the book is Java-specific - using the built-in Proxy API and Invocation Handlers, we do not implement it in the code.
+High Level Solution:
+
+![Dynamic Proxy Pattern Example 3.1](images/proxy-dynamic-solution-high.jpg)
+
+Detailed Solution:
+
+![Dynamic Proxy Pattern Example 3.2](images/proxy-dynamic-solution.jpg)
+
+Example 3 Solution:
+
+![Dynamic Proxy Pattern Example 3.3](images/proxy-example3.jpg)
+
+The Dynamic Proxy is being created Dynamically behind the scenes, when Client calls the `newProxyInstance()` method. Invocation Handlers are the middlemen/filter that Client deals with, in order to get to the proxy.
 
 
 
