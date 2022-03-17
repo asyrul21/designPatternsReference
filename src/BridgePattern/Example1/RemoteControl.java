@@ -8,23 +8,27 @@ public abstract class RemoteControl {
         this.tvFactory = factory;
     }
 
-    // delegate
+    // delegate in terms of Implementation hierarchy
     public void on() {
         this.tv.on();
     }
 
+    // delegate in terms of Implementation hierarchy
     public void off() {
         this.tv.off();
     }
 
+    // delegate in terms of Implementation hierarchy
     public void setChannel(int channel) {
         tv.tuneChannel(channel);
     }
 
+    // delegate in terms of Implementation hierarchy
     public int getChannel() {
         return tv.getChannel();
     }
 
+    // delegate in terms of Implementation hierarchy
     public void setTV(String type) {
         try {
             tv = tvFactory.getTV(type);
