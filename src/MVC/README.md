@@ -28,8 +28,8 @@ There are two type of MVC:
 
 ### Example 3: The Model 2
 
-This example has been removed in the 2020 version of the book. It makes sense, since there are many MVC frameworks that are widely used today.
+This example has been removed in the 2020 version of the book. It makes sense, since there are many MVC frameworks that are widely used today, and the example given is highly Java-specific.
 
-However, you can run the Example 3's HttpServerMain server code.
+However, you can run the Example 3's HttpServerMain server code, and pass query parameters like ?increase=2 to the URL to increase the BPM.
 
 The JSP does not work just yet, as I am still figuring out how to run the jsp file.
