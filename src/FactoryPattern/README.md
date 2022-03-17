@@ -8,6 +8,26 @@ There are three factory patterns covered in the book:
 
 3. Abstract Factory
 
+## To Run via the Terminal
+
+1. Navigate to */src*
+
+2. Compile the class:
+
+    ```bash
+    javac FactoryPattern/FactoryMethod/FactoryMethodMain.java
+    ``` 
+
+3. Run
+
+    ```bash
+    java FactoryPattern.FactoryMethod.FactoryMethodMain
+    ```
+   
+NOTE: In factory pattern the convention is altered slightly:
+ 
+ `FactoryPattern.[type of factory pattern].[main]`
+
 # Simple Factory
 
 Simple Factory is not really a design pattern, it is more of a programming idiom, where the instantiation of objects is encapsulated into a seperate class.
