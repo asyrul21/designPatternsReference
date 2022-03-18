@@ -6,7 +6,7 @@ This repository is meant to serve as a one-stop, language-agnostic Design Patter
 
 2. (Book) Design Patterns: Elements of Reusable Object-Oriented Software, By Eric Gamma, Richard Helm, Ralph Johnson, John Vlissides a.k.a The Gang of Four (GOF)
 
-3. (LinkedIn Learning Course) Node.js Design Patterns by Alex Banks. The summary I made to that course can be found here: [Node.JS Design Patterns Summary](https://github.com/asyrul21/design-patterns-nodejs).
+3. (LinkedIn Learning Course) Node.js Design Patterns by Alex Banks. The summary I made to that course can be found here: [NodeJS Design Patterns Summary](https://github.com/asyrul21/design-patterns-nodejs).
 
 The code examples in this repository is heavily based on [Reference 1], thus is in Java. That being said, we attempt to exclude any Java-specific implementations, or using any Java's built in API libraries.
 
