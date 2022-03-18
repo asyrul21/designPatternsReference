@@ -11,3 +11,7 @@ Wraps Receiver with a Concrete Command Object. Command objects are store in Invo
 ### Example 1: Remote Control
 
 ![Command Pattern Example](images/command-example1.jpg)
+
+## Other Examples
+
+[Example in NodeJS](https://github.com/asyrul21/design-patterns-nodejs/tree/master/behavioral/command)

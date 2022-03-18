@@ -68,3 +68,7 @@ The Abstract Factory pattern provides an interface for creating FAMILIES of rela
 ### Example: Pizza Store for Multiple Regions with Region-specific ingredients (Revised)
 
 ![Abstract Factory Pattern Solution](images/factory-abstract-example1-revised.jpg)
+
+## Other Examples
+
+[Example in NodeJS](https://github.com/asyrul21/design-patterns-nodejs/tree/master/creational/factory)

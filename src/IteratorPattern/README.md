@@ -12,4 +12,9 @@ Related Example: Composite Pattern
 
 ![Iterator Pattern Example](images/iterator-example1.jpg)
 
+## Other Examples
+
+[Example in NodeJS](https://github.com/asyrul21/design-patterns-nodejs/tree/master/behavioral/iterator)
+
+
 

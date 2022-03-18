@@ -21,3 +21,7 @@ Vacation Object Builder Solution:
 Vacation Object Tree Diagram:
 
 ![Builder Example 2](images/builder-example2.jpg)
+
+## Other Examples
+
+[Example in NodeJS](https://github.com/asyrul21/design-patterns-nodejs/tree/master/creational/builder)

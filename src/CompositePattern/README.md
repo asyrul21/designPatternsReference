@@ -28,6 +28,11 @@ The example in the book used Java's built-in Iterator interface. However, for th
 
 ![Composite Pattern Example 2](images/composite-example2.jpg)
 
+## Other Examples
+
+[Example in NodeJS](https://github.com/asyrul21/design-patterns-nodejs/tree/master/structural/composites)
+
+
 
 
 

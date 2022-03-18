@@ -20,4 +20,9 @@ Facade: Simplifies an interface
 
 ![Adapter Pattern Solution](images/adapter-class-solution.jpg)
 
+# Other Examples
+
+[Example in NodeJS](https://github.com/asyrul21/design-patterns-nodejs/tree/master/structural/adapter)
+
+
 

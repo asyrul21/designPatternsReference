@@ -1,4 +1,4 @@
-# Design Patterns (Head First)
+# Design Patterns Reference(Head First)
 
 This is a summary of the book Head First Design Patterns.
 
@@ -33,4 +33,14 @@ You can either run the code via IDE (intelliJ) or via the Terminal.
     ```
 
 NOTE: Convention used is: `[pattern].[example].[main]`
+
+## Not Covered Patterns
+
+1. Interpreter
+
+2. Mediator
+
+3. Memento
+
+4. Visitor
 

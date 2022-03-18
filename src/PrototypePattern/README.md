@@ -5,3 +5,7 @@ This pattern is used when creating an instance of a given class which is either 
 ## Example 1: Monster Prototype
 
 ![Builder Example 1](images/prototype-example1.jpg)
+
+## Other Examples
+
+[Example in NodeJS](https://github.com/asyrul21/design-patterns-nodejs/tree/master/creational/prototype)

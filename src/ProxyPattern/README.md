@@ -85,6 +85,11 @@ Example 3 Solution:
 
 The Dynamic Proxy is being created Dynamically behind the scenes, when Client calls the `newProxyInstance()` method. Invocation Handlers are the middlemen/filter that Client deals with, in order to get to the proxy.
 
+# Other Examples
+
+[Example in NodeJS](https://github.com/asyrul21/design-patterns-nodejs/tree/master/structural/proxy)
+
+
 
 
 
