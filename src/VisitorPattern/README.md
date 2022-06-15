@@ -31,7 +31,7 @@ For this example we shall make a few modifications to the initial implementation
 
 1. We remove the `isVegetarian` property
 2. `MenuItem` is now abstract, with Concrete elements of `NormalMenuItem` and `VegetarianMenuItem`
-3. The Visitor will attempt to visit each of these concrete menuItems, performing specific tasks. In our case, one visitor will compute their total price, and on will compile the names of each type of menuItems.
+3. The Visitors visit each of these concrete menuItems, performing specific tasks. In our case, one visitor will compute their total price, and on will compile the names of each type of menuItems.
 
 ### Composite Visitor Pattern example:
 

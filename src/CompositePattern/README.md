@@ -28,6 +28,10 @@ The example in the book used Java's built-in Iterator interface. However, for th
 
 ![Composite Pattern Example 2](images/composite-example2.jpg)
 
+## Alternative Implementation
+
+There is another example on implementing Composites, which I believe might be better than ones provided in the examples here. See [Visitor](https://github.com/asyrul21/designPatternsReference/tree/master/src/VisitorPattern).
+
 ## Other Examples
 
 [Example in NodeJS](https://github.com/asyrul21/design-patterns-nodejs/tree/master/structural/composites)
