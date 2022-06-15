@@ -1,9 +1,9 @@
 
 # Visitor Pattern
 
-TODO: Visitor brief description
+Represent an operations to be performed on different types of object structure. Visitors define new operation without changing the classes of the elements on which it operates.
 
-Related Example: Composite Pattern
+Related Example: [Composite Pattern](https://github.com/asyrul21/designPatternsReference/tree/master/src/CompositePattern)
 
 ## Design Solution (Composite Visitor)
 

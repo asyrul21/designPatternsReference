@@ -48,8 +48,6 @@ NOTE: Convention used is: `[pattern].[example].[main]`
 
 3. Memento
 
-4. Visitor
-
 # Notes
 
 ## OO Basics
